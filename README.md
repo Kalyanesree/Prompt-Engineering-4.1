@@ -1,6 +1,7 @@
 # Prompt-Engineering-4.1
 # EXP 4 Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
 
+# Register No: 212222050028                    # Name: KALYANE SREE M
 # Aim
 To develop and evaluate a scenario-based prompt engineering approach using Zero-Shot, Few-Shot, Chain-of-Thought, Role-Based, and Multi-Modal prompting techniques for enhancing the reliability, empathy, and contextual awareness of the MediGuide Smart Health Assistant across diverse elderly healthcare scenarios..
 
@@ -50,6 +51,7 @@ Output (Gemini or GPT-4V):
 
 # Result
 The prompting techniques were successfully applied to generate context-specific, empathetic, and helpful outputs for a smart health assistant system. Each technique demonstrated its strengths:
+
 # Zero-shot:
 Quick, generic responses.
 
@@ -60,7 +62,7 @@ Pattern learning for custom advice.
 Reliable for reasoning during crises. Role-based: Empathy and human-like interaction.
 
 # Multi-modal:
-Rich insight 
+Rich insight from visual data.
 
 
 
